@@ -1,7 +1,7 @@
 {
-  "name": "svelte-ts-sass-template",
+  "name": "webrtc-example",
   "version": "1.0.0",
-  "description": "svelte, typescript and sass template",
+  "description": "",
   "main": "src/index.ts",
   "scripts": {
     "serve": "webpack serve --progress",
